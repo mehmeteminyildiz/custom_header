@@ -5,7 +5,7 @@ import com.mey.includelayout.databinding.CustomHeaderBinding
 
 
 /**
- * Created by Mehmet Emin Yılız on 10.11.2023
+ * Created by Mehmet Emin Yıldız on 10.11.2023
  **/
 
 object HeaderHelper {
