@@ -5,6 +5,11 @@ After designing a layout, you can customize it by including it where necessary a
 
 ## Images
 
+<img align="left" src="Screenshot_1673354257.png" alt="drawing" width="300"/>
+<img align="left" src="Screenshot_1673355322.png" alt="drawing" width="300"/>
+<img src="Screenshot_1673355309.png" alt="drawing" width="300"/>
+
+
 
 
 You can reach me and provide feedback in the following ways:
